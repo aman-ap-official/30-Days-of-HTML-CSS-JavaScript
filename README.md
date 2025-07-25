@@ -1,69 +1,101 @@
 # 🚀 30 Days of Frontend: HTML, CSS & JavaScript Essentials
 
-Welcome to my **30 Days of Frontend** challenge!  
-Over 30 days, I explored the most essential building blocks of front-end web development using **HTML, CSS, and JavaScript**. Each day includes a short concept demo with code and output (some with videos too).
+Welcome to my **30 Days of Frontend** challenge! Over the course of a month, I explored core front-end development concepts using **HTML**, **CSS**, and **JavaScript**.
+
+📸 Follow the journey on Instagram: [@codingwithap](https://www.instagram.com/codingwithap)
+
+Each day includes:
+
+* ✅ A focused web development concept
+* 💻 A practical code example (HTML, CSS, JS)
+* 🎥 (Optional) Demo or video output
 
 ---
 
-## 📁 What's Inside
+## 📁 Project Structure
 
-Each day covers:
-- ✅ A core frontend concept (HTML/CSS/JS)
-- 💡 Example code with explanation
-- 🎥 (Optional) Output video or demo
-- 🔗 Linked code files in folders (`Day01`, `Day02`, ..., `Day30`)
+The repository contains 30 folders, one for each day:
+
+```bash
+📦 30-days-frontend/
+ ┣ 📂 Day01/
+ ┣ 📂 Day02/
+ ┣ 📂 ...
+ ┗ 📂 Day30/
+```
+
+> Open the `index.html` file inside each folder to view the concept in action.
 
 ---
 
 ## 📅 Daily Lessons & Concepts
 
-| Day | Topic | Description |
-|-----|------------------------------|-------------------------|
-| 1   | HTML Boilerplate             | Basic structure of an HTML page |
-| 2   | CSS Box Model                | Padding, border, and margin explained |
-| 3   | `<div>` vs `<span>`          | Block vs inline elements |
-| 4   | `alert()` in JavaScript     | Simple alert popups |
-| 5   | Flexbox Centering (CSS)     | Centering elements easily |
-| 6   | `<input>` vs `<textarea>`    | Form input types |
-| 7   | JavaScript `for` Loop       | Iteration basics |
-| 8   | CSS Colors – Hex, RGB, HSL  | Ways to set colors |
-| 9   | Flexbox vs Grid             | Layout comparison |
-| 10  | Semantic HTML               | Accessibility & structure |
-| 11  | CSS Hover Effects           | Interactive styling |
-| 12  | JavaScript `onclick` Event | Triggering actions |
-| 13  | Responsive Design `@media` | Adaptive layouts |
-| 14  | HTML Forms                  | Inputs, selects, buttons |
-| 15  | JS `if...else` Conditionals| Decision making in code |
-| 16  | JavaScript Functions        | Reusable logic blocks |
-| 17  | CSS Box Model               | Deep dive recap |
-| 18  | JavaScript Arrays           | List-based data |
-| 19  | CSS Transitions             | Smooth animations |
-| 20  | JS `forEach()` Loop         | Modern array iteration |
-| 21  | JavaScript Objects          | Structured data |
-| 22  | CSS Shadows                 | Box and text shadows |
-| 23  | JS DOM Manipulation         | Changing HTML with JS |
-| 24  | CSS Variables               | Reusable styles |
-| 25  | JavaScript Date & Time     | Working with time |
-| 26  | CSS Flexbox                 | Full layout demo |
-| 27  | JS Event Listeners          | Dynamic interactivity |
-| 28  | CSS Grid Layout             | 2D layout system |
-| 29  | JS `setTimeout()` Function | Delayed actions |
-| 30  | Mini Project: Color Changer| Interactive background changer |
+| Day | Topic                         | Description                             | Code           | Output |
+| --- | ----------------------------- | --------------------------------------- | -------------- | ------ |
+| 01  | HTML Boilerplate              | Basic HTML page structure               | [Code](Day01/) | –      |
+| 02  | CSS Box Model                 | Understanding padding, borders, margins | [Code](Day02/) | –      |
+| 03  | `<div>` vs `<span>`           | Block vs inline elements                | [Code](Day03/) | –      |
+| 04  | JavaScript `alert()`          | Basic popup alert                       | [Code](Day04/) | –      |
+| 05  | Flexbox Centering             | Centering elements with Flexbox         | [Code](Day05/) | –      |
+| 06  | `<input>` vs `<textarea>`     | HTML input fields                       | [Code](Day06/) | –      |
+| 07  | JavaScript `for` Loop         | Iterating with `for` loops              | [Code](Day07/) | –      |
+| 08  | CSS Colors: Hex, RGB, HSL     | Different color formats in CSS          | [Code](Day08/) | –      |
+| 09  | Flexbox vs Grid               | Layout strategies compared              | [Code](Day09/) | –      |
+| 10  | Semantic HTML                 | Meaningful and accessible HTML tags     | [Code](Day10/) | –      |
+| 11  | CSS Hover Effects             | Interactivity with `:hover`             | [Code](Day11/) | –      |
+| 12  | JavaScript `onclick` Event    | Event handling with JS                  | [Code](Day12/) | –      |
+| 13  | Responsive Design (`@media`)  | Adapting to different screen sizes      | [Code](Day13/) | –      |
+| 14  | HTML Forms                    | Inputs, selects, and buttons            | [Code](Day14/) | –      |
+| 15  | JavaScript `if...else`        | Conditional logic                       | [Code](Day15/) | –      |
+| 16  | JavaScript Functions          | Writing and using functions             | [Code](Day16/) | –      |
+| 17  | CSS Box Model (Deep Dive)     | A second look at box model intricacies  | [Code](Day17/) | –      |
+| 18  | JavaScript Arrays             | Creating and using arrays               | [Code](Day18/) | –      |
+| 19  | CSS Transitions               | Smooth visual effects                   | [Code](Day19/) | –      |
+| 20  | JavaScript `forEach()`        | Iterating arrays with `forEach()`       | [Code](Day20/) | –      |
+| 21  | JavaScript Objects            | Key-value data structures               | [Code](Day21/) | –      |
+| 22  | CSS Shadows                   | Applying box and text shadows           | [Code](Day22/) | –      |
+| 23  | DOM Manipulation (JavaScript) | Interacting with the DOM                | [Code](Day23/) | –      |
+| 24  | CSS Variables                 | Using and managing custom properties    | [Code](Day24/) | –      |
+| 25  | JavaScript Date & Time        | Working with time-related functions     | [Code](Day25/) | –      |
+| 26  | CSS Flexbox (Practical)       | Layout building with Flexbox            | [Code](Day26/) | –      |
+| 27  | Event Listeners (JavaScript)  | Capturing user interactions             | [Code](Day27/) | –      |
+| 28  | CSS Grid Layout               | Advanced 2D layouts                     | [Code](Day28/) | –      |
+| 29  | JavaScript `setTimeout()`     | Executing code with delays              | [Code](Day29/) | –      |
+| 30  | Final Project: Color Changer  | Mini app to change background colors    | [Code](Day30/) | –      |
+
+> 📌 Replace "–" under **Output** with `[Watch](your-link)` if video demos are available.
 
 ---
 
-## 🎥 Demo / Output Videos
+## 🎥 YouTube Playlist (Optional)
 
-> 🔗 Add your YouTube playlist or individual video links here  
-Example:  
-📺 [Watch the full playlist](https://youtube.com/your-playlist-link)
+🎬 *Coming Soon* or
+📺 [Watch Full Playlist](https://youtube.com/your-playlist-link)
 
 ---
 
-## 👨‍💻 Getting Started
+## 🛠️ Technologies Used
 
-Clone the repo and explore each folder:
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* Optional: VS Code, Live Server, etc.
 
-```bash
-git clone https://github.com/your-username/30-days-frontend.git
-cd 30-days-frontend/Day01
+---
+
+## 🌐 Connect with Me
+
+* 📸 Instagram: [@codingwithap](https://www.instagram.com/codingwithap)
+* 💻 GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+
+---
+
+## ⭐ Support This Project
+
+If you found this useful or inspiring, feel free to ⭐ star the repository and share it with others!
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
