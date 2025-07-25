@@ -1,0 +1,38 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 30 – Color Changer</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: sans-serif;
+      padding: 3rem;
+      transition: background 0.5s ease;
+    }
+
+    button {
+      padding: 1rem 2rem;
+      font-size: 1.1rem;
+      background: #34495e;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h2>Click to Change Background Color</h2>
+  <button onclick="changeColor()">Change Color</button>
+
+  <script>
+    function changeColor() {
+      const colors = ["#f39c12", "#e74c3c", "#2ecc71", "#9b59b6", "#1abc9c"];
+      const randomColor = colors[Math.floor(Math.random() * colors.length)];
+      document.body.style.background = randomColor;
+    }
+  </script>
+</body>
+</html>
