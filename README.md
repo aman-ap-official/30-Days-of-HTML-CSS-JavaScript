@@ -35,8 +35,8 @@ The repository contains 30 folders, one for each day:
 | 01  | HTML Boilerplate              | Basic HTML page structure               | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/tree/main/Day%201) | [Watch](https://www.instagram.com/reel/DLC2-4kyzt5/) |
 | 02  | CSS Box Model                 | Understanding padding, borders, margins | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/blob/main/Day%202/day%202.html)                                                                               | [Watch](https://www.instagram.com/reel/DLEgAaxRnn7/) |
 | 03  | `<div>` vs `<span>`           | Block vs inline elements                | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/blob/main/Day%203/Day%203.html)                                                                               | [Watch](https://www.instagram.com/reel/DLIPdXNyOUG/) |
-| 04  | JavaScript `alert()`          | Basic popup alert                       | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/tree/main/Day%204
-)                                                                               | [Watch](https://www.instagram.com/reel/DLK26ypyUyH/) |
+| 04  | JavaScript `alert()`          | Basic popup alert                       | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/tree/main/Day%204)
+                                                                                | [Watch](https://www.instagram.com/reel/DLK26ypyUyH/) |
 | 05  | Flexbox Centering             | Centering elements with Flexbox         | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/blob/main/Day%205/day%205.html
 )                                                                               | [Watch](https://www.instagram.com/reel/DLNV1mIS87h/) |
 | 06  | `<input>` vs `<textarea>`     | HTML input fields                       | [Code](Day06/)                                                                               | [Watch](https://www.instagram.com/reel/DLRbkdsxCh5/) |
