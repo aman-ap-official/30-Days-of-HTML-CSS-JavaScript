@@ -1,0 +1,31 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 15 – JS if else</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    input, button {
+      padding: 0.5rem;
+      margin-top: 0.5rem;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <input id="age" type="number" placeholder="Enter your age">
+  <button onclick="checkAge()">Check</button>
+
+  <script>
+    function checkAge() {
+      const age = document.getElementById("age").value;
+      if (age >= 18) {
+        alert("You're an adult! ✅");
+      } else {
+        alert("You're under 18 🚫");
+      }
+    }
+  </script>
+</body>
+</html>
