@@ -1,0 +1,34 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 25 – JavaScript Date</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      text-align: center;
+    }
+    .time {
+      font-size: 1.5rem;
+      color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+  <h2>Current Time:</h2>
+  <div class="time" id="clock"></div>
+
+  <script>
+    function updateTime() {
+      const now = new Date();
+      const time = now.toLocaleTimeString();
+      document.getElementById("clock").innerText = time;
+    }
+
+    setInterval(updateTime, 1000);
+    updateTime();
+  </script>
+</body>
+</html>
