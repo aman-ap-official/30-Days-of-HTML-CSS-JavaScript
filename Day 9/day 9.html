@@ -1,0 +1,47 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Day 9 – Flex vs Grid</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    .flex-container, .grid-container {
+      margin-bottom: 2rem;
+      gap: 1rem;
+    }
+    .flex-container {
+      display: flex;
+    }
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
+    .item {
+      background: #8ac6d1;
+      padding: 1rem;
+      text-align: center;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Flexbox (one-dimensional)</h2>
+  <div class="flex-container">
+    <div class="item">1</div>
+    <div class="item">2</div>
+    <div class="item">3</div>
+  </div>
+
+  <h2>Grid (two-dimensional)</h2>
+  <div class="grid-container">
+    <div class="item">A</div>
+    <div class="item">B</div>
+    <div class="item">C</div>
+    <div class="item">D</div>
+    <div class="item">E</div>
+    <div class="item">F</div>
+  </div>
+</body>
+</html>
