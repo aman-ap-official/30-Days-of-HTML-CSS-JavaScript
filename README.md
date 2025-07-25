@@ -77,7 +77,7 @@ The repository contains 30 folders, one for each day:
 ## 🌐 Connect with Me
 
 * 📸 Instagram: [@codingwithap](https://www.instagram.com/codingwithap)
-* 💻 GitHub: [@aman-ap-official]([https://github.com/YourGitHubUsername](https://github.com/aman-ap-official))
+* 💻 GitHub: [@aman-ap-official](https://github.com/aman-ap-official)
 
 ---
 
