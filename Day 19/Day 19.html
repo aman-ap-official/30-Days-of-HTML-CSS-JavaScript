@@ -1,0 +1,30 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 19 – CSS Transitions</title>
+  <style>
+    .box {
+      background: #f39c12;
+      padding: 2rem;
+      width: 200px;
+      text-align: center;
+      color: white;
+      transition: transform 0.3s ease;
+    }
+
+    .box:hover {
+      transform: scale(1.1);
+    }
+
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">Hover Me ⚡</div>
+</body>
+</html>
