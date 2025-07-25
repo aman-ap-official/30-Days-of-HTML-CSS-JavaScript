@@ -1,0 +1,27 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 27 – JS Event Listener</title>
+  <style>
+    button {
+      padding: 1rem;
+      background: #2ecc71;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <button id="clickBtn">Click Me</button>
+
+  <script>
+    document.getElementById("clickBtn").addEventListener("click", () => {
+      alert("Button clicked using addEventListener!");
+    });
+  </script>
+</body>
+</html>
