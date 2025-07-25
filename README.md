@@ -24,7 +24,7 @@ The repository contains 30 folders, one for each day:
  ┗ 📂 Day30/
 ```
 
-> Open the `Day.html` file inside each folder to view the concept in action.
+> Open the `index.html` file inside each folder to view the concept in action.
 
 ---
 
@@ -33,12 +33,10 @@ The repository contains 30 folders, one for each day:
 | Day | Topic                         | Description                             | Code                                                                                         | Output                                               |
 | --- | ----------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | 01  | HTML Boilerplate              | Basic HTML page structure               | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/tree/main/Day%201) | [Watch](https://www.instagram.com/reel/DLC2-4kyzt5/) |
-| 02  | CSS Box Model                 | Understanding padding, borders, margins | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/blob/main/Day%202/day%202.html)                                                                               | [Watch](https://www.instagram.com/reel/DLEgAaxRnn7/) |
-| 03  | `<div>` vs `<span>`           | Block vs inline elements                | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/blob/main/Day%203/Day%203.html)                                                                               | [Watch](https://www.instagram.com/reel/DLIPdXNyOUG/) |
-| 04  | JavaScript `alert()`          | Basic popup alert                       | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/tree/main/Day%204)
-                                                                                | [Watch](https://www.instagram.com/reel/DLK26ypyUyH/) |
-| 05  | Flexbox Centering             | Centering elements with Flexbox         | [Code](https://github.com/aman-ap-official/30-Days-of-HTML-CSS-JavaScript/blob/main/Day%205/day%205.html
-)                                                                               | [Watch](https://www.instagram.com/reel/DLNV1mIS87h/) |
+| 02  | CSS Box Model                 | Understanding padding, borders, margins | [Code](Day02/)                                                                               | [Watch](https://www.instagram.com/reel/DLEgAaxRnn7/) |
+| 03  | `<div>` vs `<span>`           | Block vs inline elements                | [Code](Day03/)                                                                               | [Watch](https://www.instagram.com/reel/DLIPdXNyOUG/) |
+| 04  | JavaScript `alert()`          | Basic popup alert                       | [Code](Day04/)                                                                               | [Watch](https://www.instagram.com/reel/DLK26ypyUyH/) |
+| 05  | Flexbox Centering             | Centering elements with Flexbox         | [Code](Day05/)                                                                               | [Watch](https://www.instagram.com/reel/DLNV1mIS87h/) |
 | 06  | `<input>` vs `<textarea>`     | HTML input fields                       | [Code](Day06/)                                                                               | [Watch](https://www.instagram.com/reel/DLRbkdsxCh5/) |
 | 07  | JavaScript `for` Loop         | Iterating with `for` loops              | [Code](Day07/)                                                                               | [Watch](https://www.instagram.com/reel/DLT__AfRopA/) |
 | 08  | CSS Colors: Hex, RGB, HSL     | Different color formats in CSS          | [Code](Day08/)                                                                               | [Watch](https://www.instagram.com/reel/DLWgsCXxPka/) |
@@ -79,7 +77,7 @@ The repository contains 30 folders, one for each day:
 ## 🌐 Connect with Me
 
 * 📸 Instagram: [@codingwithap](https://www.instagram.com/codingwithap)
-* 💻 GitHub: [AMAN PANDEY](https://github.com/aman-ap-official)
+* 💻 GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 
 ---
 
