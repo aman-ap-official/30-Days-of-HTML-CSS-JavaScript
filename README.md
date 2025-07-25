@@ -24,7 +24,7 @@ The repository contains 30 folders, one for each day:
  ┗ 📂 Day30/
 ```
 
-> Open the `index.html` file inside each folder to view the concept in action.
+> Open the `Day.html` file inside each folder to view the concept in action.
 
 ---
 
