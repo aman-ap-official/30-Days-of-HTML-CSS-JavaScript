@@ -1,0 +1,28 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 23 – DOM Manipulation</title>
+  <style>
+    button {
+      padding: 0.7rem 1.2rem;
+      background: #8e44ad;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h2 id="title">Original Title</h2>
+  <button onclick="changeText()">Change Text</button>
+
+  <script>
+    function changeText() {
+      document.getElementById("title").innerText = "Text Updated with JS!";
+    }
+  </script>
+</body>
+</html>
