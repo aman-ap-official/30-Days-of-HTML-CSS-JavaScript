@@ -1,0 +1,27 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 24 – CSS Variables</title>
+  <style>
+    :root {
+      --main-color: #16a085;
+      --padding: 1rem;
+      --radius: 8px;
+    }
+
+    .box {
+      background: var(--main-color);
+      padding: var(--padding);
+      border-radius: var(--radius);
+      color: white;
+      font-family: sans-serif;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">CSS Variables are 🔥</div>
+</body>
+</html>
