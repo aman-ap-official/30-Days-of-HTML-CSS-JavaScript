@@ -17,7 +17,7 @@ Each day includes:
 The repository contains 30 folders, one for each day:
 
 ```bash
-📦 30-days-frontend/
+📦 30-Days-of-HTML-CSS-JavaScript/
  ┣ 📂 Day01/
  ┣ 📂 Day02/
  ┣ 📂 ...
