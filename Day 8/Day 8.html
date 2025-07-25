@@ -1,0 +1,38 @@
+<!-- @codingwithap -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Day 8 – CSS Color Formats</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 2rem; }
+    .box {
+      width: 100px;
+      height: 100px;
+      display: inline-block;
+      margin: 0.5rem;
+      border-radius: 4px;
+    }
+    .box-hex { background: #ff5733; }
+    .box-rgb { background: rgb(255, 87, 51); }
+    .box-hsl { background: hsl(14, 100%, 60%); }
+    .label { text-align: center; font-size: 0.9rem; margin-top: 0.25rem; }
+    .container { display: inline-block; margin-right: 1rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="box box-hex"></div>
+    <div class="label">#ff5733</div>
+  </div>
+  <div class="container">
+    <div class="box box-rgb"></div>
+    <div class="label">rgb(255,87,51)</div>
+  </div>
+  <div class="container">
+    <div class="box box-hsl"></div>
+    <div class="label">hsl(14,100%,60%)</div>
+  </div>
+</body>
+</html>
